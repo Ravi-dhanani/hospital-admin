@@ -1,0 +1,8 @@
+export const DOCTOR_SPECIALISTS  {
+  BRAIN = "BRAIN",
+  HART = "HART",
+  CARDIOLOGISTS = "CARDIOLOGISTS",
+  DENTISTS = "DENTISTS",
+  SURGEONS = "SURGEONS",
+};
+export default { DOCTOR_SPECIALISTS } as any;
